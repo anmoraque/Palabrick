@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Palabrick</string>
+    <string name="borrar">DEL</string>
+    <string name="enviar">SEND</string>
+    <string name="mensaje_derrota">YOU HAVE LOST, IT WAS</string>
+    <string name="palabra_no_valida">NOT A VALID WORD</string>
+    <string name="palabra_incompleta">COMPLETE THE WORD BEFORE TEST</string>
+    <string name="mensaje_victoria">YOU WON</string>
+</resources>

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Palabrick</string>
+    <string name="borrar">BORRAR</string>
+    <string name="enviar">ENVIAR</string>
+    <string name="mensaje_derrota">HAS PERIDO, ERA</string>
+    <string name="palabra_no_valida">PALABRA NO VALIDA</string>
+    <string name="palabra_incompleta">COMPLETE LA PALABRA PARA PROBAR</string>
+    <string name="mensaje_victoria">HAS GANADO</string>
+</resources>
